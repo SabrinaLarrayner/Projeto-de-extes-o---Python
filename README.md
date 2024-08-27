@@ -18,6 +18,8 @@ Antes de executar o script, você precisará ter o Python instalado em sua máqu
 - pandas
 - matplotlib
 
+Para rodar o projeto basta ir em "terminal" do VS  e dar o seguinte comando: python analyticsData.py
+
 Você pode instalar as dependências usando o seguinte comando:
 
 ```bash
